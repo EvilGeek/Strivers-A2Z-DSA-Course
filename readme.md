@@ -1,4 +1,4 @@
-## ✅ Step 1: Learn the basics
+# ✅ Step 1: Learn the basics
 ### 🔸 Substep 1: Things to Know in C++/Java/Python or any language
 - 🔹 User Input / Output
 - 🔹 Data Types
@@ -11,8 +11,7 @@
 - 🔹 Time Complexity [Learn Basics, and then analyse in next Steps]
 ### 🔸 Substep 2: Build-up Logical Thinking
 - 🔹 Patterns
-### 🔸 Substep 3: Learn STL/Java-Collections or similar thing in your
-            language
+### 🔸 Substep 3: Learn STL/Java-Collections or similar thing in your language
 - 🔹 C++ STL
 - 🔹 Java Collections
 ### 🔸 Substep 4: Know Basic Maths
@@ -39,7 +38,7 @@
 - 🔹 Find the highest/lowest frequency element
 
 ---
-## ✅ Step 2: Learn Important Sorting Techniques
+# ✅ Step 2: Learn Important Sorting Techniques
 ### 🔸 Substep 1: Sorting-I
 - 🔹 Selection Sort
 - 🔹 Bubble Sort
@@ -51,7 +50,7 @@
 - 🔹 Quick Sort
 
 ---
-## ✅ Step 3: Solve Problems on Arrays [Easy -> Medium -> Hard]
+# ✅ Step 3: Solve Problems on Arrays [Easy -> Medium -> Hard]
 ### 🔸 Substep 1: Easy
 - 🔹 Largest Element in an Array
 - 🔹 Second Largest Element in an Array without sorting
@@ -97,7 +96,7 @@
 - 🔹 Maximum Product Subarray
 
 ---
-## ✅ Step 4: Binary Search [1D, 2D Arrays, Search Space]
+# ✅ Step 4: Binary Search [1D, 2D Arrays, Search Space]
 ### 🔸 Substep 1: BS on 1D Arrays
 - 🔹 Binary Search to find X in sorted array
 - 🔹 Implement Lower Bound
@@ -135,7 +134,7 @@
 - 🔹 Matrix Median
 
 ---
-## ✅ Step 5: Strings [Basic and Medium]
+# ✅ Step 5: Strings [Basic and Medium]
 ### 🔸 Substep 1: Basic and Easy String Problems
 - 🔹 Remove outermost Paranthesis
 - 🔹 Reverse words in a given string / Palindrome Check
@@ -155,7 +154,7 @@
 - 🔹 Reverse Every Word in A String
 
 ---
-## ✅ Step 6: Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]
+# ✅ Step 6: Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]
 ### 🔸 Substep 1: Learn 1D LinkedList
 - 🔹 Introduction to LinkedList, learn about struct, and how is node represented
 - 🔹 Inserting a node in LinkedList
@@ -194,7 +193,7 @@
 - 🔹 Clone a Linked List with random and next pointer
 
 ---
-## ✅ Step 7: Recursion [PatternWise]
+# ✅ Step 7: Recursion [PatternWise]
 ### 🔸 Substep 1: Get a Strong Hold
 - 🔹 Recursive Implementation of atoi()
 - 🔹 Pow(x, n)
@@ -225,7 +224,7 @@
 - 🔹 Expression Add Operators
 
 ---
-## ✅ Step 8: Bit Manipulation [Concepts & Problems]
+# ✅ Step 8: Bit Manipulation [Concepts & Problems]
 ### 🔸 Substep 1: Learn Bit Manipulation
 - 🔹 Introduction to Bit Manipulation [Theory]
 - 🔹 Check if the i-th bit is set or not
@@ -249,7 +248,7 @@
 - 🔹 Power(n, x)
 
 ---
-## ✅ Step 9: Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]
+# ✅ Step 9: Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]
 ### 🔸 Substep 1: Learning
 - 🔹 Implement Stack using Arrays
 - 🔹 Implement Queue using Arrays
@@ -286,7 +285,7 @@
 - 🔹 LFU cache
 
 ---
-## ✅ Step 10: Sliding Window & Two Pointer Combined Problems
+# ✅ Step 10: Sliding Window & Two Pointer Combined Problems
 ### 🔸 Substep 1: Medium Problems
 - 🔹 Longest Substring Without Repeating Characters
 - 🔹 Max Consecutive Ones III
@@ -303,7 +302,7 @@
 - 🔹 Minimum Window Subsequence
 
 ---
-## ✅ Step 11: Heaps [Learning, Medium, Hard Problems]
+# ✅ Step 11: Heaps [Learning, Medium, Hard Problems]
 ### 🔸 Substep 1: Learning
 - 🔹 Introduction to Priority Queues using Binary Heaps
 - 🔹 Min Heap and Max Heap Implementation
@@ -326,7 +325,7 @@
 - 🔹 K most frequent elements
 
 ---
-## ✅ Step 12: Greedy Algorithms [Easy, Medium/Hard]
+# ✅ Step 12: Greedy Algorithms [Easy, Medium/Hard]
 ### 🔸 Substep 1: Easy Problems
 - 🔹 Assign Cookies
 - 🔹 Fractional Knapsack Problem
@@ -347,7 +346,7 @@
 - 🔹 Non-overlapping Intervals
 
 ---
-## ✅ Step 13: Binary Trees [Traversals, Medium and Hard Problems]
+# ✅ Step 13: Binary Trees [Traversals, Medium and Hard Problems]
 ### 🔸 Substep 1: Traversals
 - 🔹 Introduction to Trees
 - 🔹 Binary Tree Representation in C++
@@ -392,7 +391,7 @@
 - 🔹 Flatten Binary Tree to LinkedList
 
 ---
-## ✅ Step 14: Binary Search Trees [Concept and Problems]
+# ✅ Step 14: Binary Search Trees [Concept and Problems]
 ### 🔸 Substep 1: Concepts
 - 🔹 Introduction to Binary Search Tree
 - 🔹 Search in a Binary Search Tree
@@ -413,7 +412,7 @@
 - 🔹 Largest BST in Binary Tree
 
 ---
-## ✅ Step 15: Graphs [Concepts & Problems]
+# ✅ Step 15: Graphs [Concepts & Problems]
 ### 🔸 Substep 1: Learning
 - 🔹 Graph and Types
 - 🔹 Graph Representation | C++
@@ -476,7 +475,7 @@
 - 🔹 Kosaraju's Algorithm
 
 ---
-## ✅ Step 16: Dynamic Programming [Patterns and Problems]
+# ✅ Step 16: Dynamic Programming [Patterns and Problems]
 ### 🔸 Substep 1: Introduction to DP
 - 🔹 Dynamic Programming Introduction
 ### 🔸 Substep 2: 1D DP
@@ -544,7 +543,7 @@
 - 🔹 Count Square Submatrices with All Ones|(DP-56)
 
 ---
-## ✅ Step 17: Tries
+# ✅ Step 17: Tries
 ### 🔸 Substep 1: Theory
 - 🔹 Implement TRIE | INSERT | SEARCH | STARTSWITH
 ### 🔸 Substep 2: Problems
@@ -556,7 +555,7 @@
 - 🔹 Maximum XOR With an Element From Array
 
 ---
-## ✅ Step 18: Strings
+# ✅ Step 18: Strings
 ### 🔸 Substep 1: Hard Problems
 - 🔹 Minimum number of bracket reversals needed to make an expression balanced
 - 🔹 Count and say
